@@ -31,7 +31,7 @@
 
 ### 1. Initialize Git Repository
 ```bash
-cd /Users/nathannantais/Coding/imbillingcustomsite/imbilling-github-pages
+cd /path/to/imbillingcustomsite/imbilling-github-pages
 git init
 git add .
 git commit -m "Initial commit - WordPress to static site migration"

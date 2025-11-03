@@ -43,7 +43,7 @@ imbilling-github-pages/
 Open Terminal and run:
 
 ```bash
-cd /Users/nathannantais/Coding/imbillingcustomsite/imbilling-github-pages
+cd /path/to/imbillingcustomsite/imbilling-github-pages
 
 # Initialize git repository
 git init
